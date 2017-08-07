@@ -1,13 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
-.idea/inspectionProfiles/
-.idea/modules.xml
-.idea/redux-shopping-cart.iml
-.idea/workspace.xml
 node_modules/
-.idea/jsLibraryMappings.xml
-.idea/misc.xml
-.idea/watcherTasks.xml
-bin/
-public/bundle.js

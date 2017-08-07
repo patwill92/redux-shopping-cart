@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www & node apiServer.js"
   },
   "devDependencies": {
     "babel": "^6.23.0",
@@ -23,6 +23,8 @@
     "create-react-class": "^15.6.0",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "express-http-proxy": "^1.0.6",
+    "http-proxy": "^1.16.2",
     "lodash": "^4.17.4",
     "mongoose": "^4.11.5",
     "morgan": "~1.8.1",
