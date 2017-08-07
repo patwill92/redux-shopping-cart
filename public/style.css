@@ -1,0 +1,14 @@
+body {
+  margin: 60px auto;
+}
+
+.container{
+  width: auto;
+  max-width: 900px;
+  padding: 0 15px;
+}
+
+.container .footer-text{
+  margin: 20px 0;
+}
+
